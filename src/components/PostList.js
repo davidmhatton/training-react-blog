@@ -15,7 +15,7 @@ class PostList extends Component {
 }
 
 const mapStateToProps = state => {
-  // posts: state.posts;
+  return {};
 };
 
 export default connect(mapStateToProps, {fetchPosts})(PostList);
