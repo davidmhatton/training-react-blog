@@ -9,7 +9,7 @@ class PostList extends Component {
 
   render = () => (
       <div>
-        Post List
+        Polst List
       </div>
   );
 }
